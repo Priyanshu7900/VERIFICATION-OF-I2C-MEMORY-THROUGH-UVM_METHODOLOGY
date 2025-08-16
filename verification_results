@@ -1,0 +1,244 @@
+UVM_INFO testbench.sv(104) @ 0: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 0: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 10: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 10: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 10: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 10: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 30: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 30: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 30: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 30: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 50: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 50: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 50: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 50: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 70: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 70: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 70: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 70: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 90: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 90: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 90: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 90: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 110: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 110: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 110: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 110: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 130: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 130: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 130: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 130: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 150: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 150: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 150: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 150: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 170: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 170: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 170: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 170: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 190: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 190: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 190: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 190: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 210: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 210: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 210: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 210: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 230: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 230: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 230: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 230: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 250: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 250: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 250: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 250: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 270: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 270: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(104) @ 270: uvm_test_top.env.a.seqr@@rstdut [SEQ] MODE : RESET
+UVM_INFO testbench.sv(140) @ 270: uvm_test_top.env.a.d [DRV] System Reset
+UVM_INFO testbench.sv(232) @ 290: uvm_test_top.env.a.m [MON] SYSTEM RESET DETECTED
+UVM_INFO testbench.sv(289) @ 290: uvm_test_top.env.s [SCO] SYSTEM RESET DETECTED
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 290: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 146 ADDR : 7 
+UVM_INFO testbench.sv(151) @ 290: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 7  din : 146
+UVM_INFO testbench.sv(246) @ 830: uvm_test_top.env.a.m [MON] DATA WRITE addr:7 data:146
+UVM_INFO testbench.sv(294) @ 830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:7, wdata:146 arr_wr:146
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 176 ADDR : 9 
+UVM_INFO testbench.sv(151) @ 830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 9  din : 176
+UVM_INFO testbench.sv(246) @ 1330: uvm_test_top.env.a.m [MON] DATA WRITE addr:9 data:176
+UVM_INFO testbench.sv(294) @ 1330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:9, wdata:176 arr_wr:176
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 1330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 19 ADDR : 4 
+UVM_INFO testbench.sv(151) @ 1330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 4  din : 19
+UVM_INFO testbench.sv(246) @ 1830: uvm_test_top.env.a.m [MON] DATA WRITE addr:4 data:19
+UVM_INFO testbench.sv(294) @ 1830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:4, wdata:19 arr_wr:19
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 1830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 148 ADDR : 9 
+UVM_INFO testbench.sv(151) @ 1830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 9  din : 148
+UVM_INFO testbench.sv(246) @ 2330: uvm_test_top.env.a.m [MON] DATA WRITE addr:9 data:148
+UVM_INFO testbench.sv(294) @ 2330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:9, wdata:148 arr_wr:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 2330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 79 ADDR : 4 
+UVM_INFO testbench.sv(151) @ 2330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 4  din : 79
+UVM_INFO testbench.sv(246) @ 2830: uvm_test_top.env.a.m [MON] DATA WRITE addr:4 data:79
+UVM_INFO testbench.sv(294) @ 2830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:4, wdata:79 arr_wr:79
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 2830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 23 ADDR : 8 
+UVM_INFO testbench.sv(151) @ 2830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 8  din : 23
+UVM_INFO testbench.sv(246) @ 3330: uvm_test_top.env.a.m [MON] DATA WRITE addr:8 data:23
+UVM_INFO testbench.sv(294) @ 3330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:8, wdata:23 arr_wr:23
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 3330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 24 ADDR : 3 
+UVM_INFO testbench.sv(151) @ 3330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 3  din : 24
+UVM_INFO testbench.sv(246) @ 3830: uvm_test_top.env.a.m [MON] DATA WRITE addr:3 data:24
+UVM_INFO testbench.sv(294) @ 3830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:3, wdata:24 arr_wr:24
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 3830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 84 ADDR : 3 
+UVM_INFO testbench.sv(151) @ 3830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 3  din : 84
+UVM_INFO testbench.sv(246) @ 4330: uvm_test_top.env.a.m [MON] DATA WRITE addr:3 data:84
+UVM_INFO testbench.sv(294) @ 4330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:3, wdata:84 arr_wr:84
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 4330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 185 ADDR : 7 
+UVM_INFO testbench.sv(151) @ 4330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 7  din : 185
+UVM_INFO testbench.sv(246) @ 4830: uvm_test_top.env.a.m [MON] DATA WRITE addr:7 data:185
+UVM_INFO testbench.sv(294) @ 4830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:7, wdata:185 arr_wr:185
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 4830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 59 ADDR : 6 
+UVM_INFO testbench.sv(151) @ 4830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 6  din : 59
+UVM_INFO testbench.sv(246) @ 5330: uvm_test_top.env.a.m [MON] DATA WRITE addr:6 data:59
+UVM_INFO testbench.sv(294) @ 5330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:6, wdata:59 arr_wr:59
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 5330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 231 ADDR : 3 
+UVM_INFO testbench.sv(151) @ 5330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 3  din : 231
+UVM_INFO testbench.sv(246) @ 5830: uvm_test_top.env.a.m [MON] DATA WRITE addr:3 data:231
+UVM_INFO testbench.sv(294) @ 5830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:3, wdata:231 arr_wr:231
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 5830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 205 ADDR : 4 
+UVM_INFO testbench.sv(151) @ 5830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 4  din : 205
+UVM_INFO testbench.sv(246) @ 6330: uvm_test_top.env.a.m [MON] DATA WRITE addr:4 data:205
+UVM_INFO testbench.sv(294) @ 6330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:4, wdata:205 arr_wr:205
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 6330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 208 ADDR : 1 
+UVM_INFO testbench.sv(151) @ 6330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 1  din : 208
+UVM_INFO testbench.sv(246) @ 6830: uvm_test_top.env.a.m [MON] DATA WRITE addr:1 data:208
+UVM_INFO testbench.sv(294) @ 6830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:1, wdata:208 arr_wr:208
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 6830: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 13 ADDR : 7 
+UVM_INFO testbench.sv(151) @ 6830: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 7  din : 13
+UVM_INFO testbench.sv(246) @ 7330: uvm_test_top.env.a.m [MON] DATA WRITE addr:7 data:13
+UVM_INFO testbench.sv(294) @ 7330: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:7, wdata:13 arr_wr:13
+----------------------------------------------------------------
+UVM_INFO testbench.sv(53) @ 7330: uvm_test_top.env.a.seqr@@wdata [SEQ] MODE : WRITE DIN : 116 ADDR : 6 
+UVM_INFO testbench.sv(151) @ 7330: uvm_test_top.env.a.d [DRV] mode : WRITE addr : 6  din : 116
+UVM_INFO testbench.sv(246) @ 7830: uvm_test_top.env.a.m [MON] DATA WRITE addr:6 data:116
+UVM_INFO testbench.sv(294) @ 7830: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:6, wdata:116 arr_wr:116
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 7830: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 1 
+UVM_INFO testbench.sv(161) @ 7830: uvm_test_top.env.a.d [DRV] mode : READ addr : 1  din : 88
+UVM_INFO testbench.sv(257) @ 8310: uvm_test_top.env.a.m [MON] DATA READ addr:1 data:208 
+UVM_INFO testbench.sv(301) @ 8310: uvm_test_top.env.s [SCO] DATA MATCHED : addr:1, rdata:208
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 8310: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 10 
+UVM_INFO testbench.sv(161) @ 8310: uvm_test_top.env.a.d [DRV] mode : READ addr : 10  din : 129
+UVM_INFO testbench.sv(257) @ 8830: uvm_test_top.env.a.m [MON] DATA READ addr:10 data:0 
+UVM_INFO testbench.sv(301) @ 8830: uvm_test_top.env.s [SCO] DATA MATCHED : addr:10, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 8830: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 9 
+UVM_INFO testbench.sv(161) @ 8830: uvm_test_top.env.a.d [DRV] mode : READ addr : 9  din : 200
+UVM_INFO testbench.sv(257) @ 9310: uvm_test_top.env.a.m [MON] DATA READ addr:9 data:148 
+UVM_INFO testbench.sv(301) @ 9310: uvm_test_top.env.s [SCO] DATA MATCHED : addr:9, rdata:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 9310: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 9 
+UVM_INFO testbench.sv(161) @ 9310: uvm_test_top.env.a.d [DRV] mode : READ addr : 9  din : 101
+UVM_INFO testbench.sv(257) @ 9830: uvm_test_top.env.a.m [MON] DATA READ addr:9 data:148 
+UVM_INFO testbench.sv(301) @ 9830: uvm_test_top.env.s [SCO] DATA MATCHED : addr:9, rdata:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 9830: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 9 
+UVM_INFO testbench.sv(161) @ 9830: uvm_test_top.env.a.d [DRV] mode : READ addr : 9  din : 3
+UVM_INFO testbench.sv(257) @ 10350: uvm_test_top.env.a.m [MON] DATA READ addr:9 data:148 
+UVM_INFO testbench.sv(301) @ 10350: uvm_test_top.env.s [SCO] DATA MATCHED : addr:9, rdata:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 10350: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 9 
+UVM_INFO testbench.sv(161) @ 10350: uvm_test_top.env.a.d [DRV] mode : READ addr : 9  din : 231
+UVM_INFO testbench.sv(257) @ 10870: uvm_test_top.env.a.m [MON] DATA READ addr:9 data:148 
+UVM_INFO testbench.sv(301) @ 10870: uvm_test_top.env.s [SCO] DATA MATCHED : addr:9, rdata:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 10870: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 10 
+UVM_INFO testbench.sv(161) @ 10870: uvm_test_top.env.a.d [DRV] mode : READ addr : 10  din : 233
+UVM_INFO testbench.sv(257) @ 11390: uvm_test_top.env.a.m [MON] DATA READ addr:10 data:0 
+UVM_INFO testbench.sv(301) @ 11390: uvm_test_top.env.s [SCO] DATA MATCHED : addr:10, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 11390: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 10 
+UVM_INFO testbench.sv(161) @ 11390: uvm_test_top.env.a.d [DRV] mode : READ addr : 10  din : 37
+UVM_INFO testbench.sv(257) @ 11870: uvm_test_top.env.a.m [MON] DATA READ addr:10 data:0 
+UVM_INFO testbench.sv(301) @ 11870: uvm_test_top.env.s [SCO] DATA MATCHED : addr:10, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 11870: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 8 
+UVM_INFO testbench.sv(161) @ 11870: uvm_test_top.env.a.d [DRV] mode : READ addr : 8  din : 138
+UVM_INFO testbench.sv(257) @ 12350: uvm_test_top.env.a.m [MON] DATA READ addr:8 data:23 
+UVM_INFO testbench.sv(301) @ 12350: uvm_test_top.env.s [SCO] DATA MATCHED : addr:8, rdata:23
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 12350: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 7 
+UVM_INFO testbench.sv(161) @ 12350: uvm_test_top.env.a.d [DRV] mode : READ addr : 7  din : 12
+UVM_INFO testbench.sv(257) @ 12830: uvm_test_top.env.a.m [MON] DATA READ addr:7 data:13 
+UVM_INFO testbench.sv(301) @ 12830: uvm_test_top.env.s [SCO] DATA MATCHED : addr:7, rdata:13
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 12830: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 4 
+UVM_INFO testbench.sv(161) @ 12830: uvm_test_top.env.a.d [DRV] mode : READ addr : 4  din : 201
+UVM_INFO testbench.sv(257) @ 13310: uvm_test_top.env.a.m [MON] DATA READ addr:4 data:205 
+UVM_INFO testbench.sv(301) @ 13310: uvm_test_top.env.s [SCO] DATA MATCHED : addr:4, rdata:205
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 13310: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 6 
+UVM_INFO testbench.sv(161) @ 13310: uvm_test_top.env.a.d [DRV] mode : READ addr : 6  din : 174
+UVM_INFO testbench.sv(257) @ 13830: uvm_test_top.env.a.m [MON] DATA READ addr:6 data:116 
+UVM_INFO testbench.sv(301) @ 13830: uvm_test_top.env.s [SCO] DATA MATCHED : addr:6, rdata:116
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 13830: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 3 
+UVM_INFO testbench.sv(161) @ 13830: uvm_test_top.env.a.d [DRV] mode : READ addr : 3  din : 178
+UVM_INFO testbench.sv(257) @ 14310: uvm_test_top.env.a.m [MON] DATA READ addr:3 data:231 
+UVM_INFO testbench.sv(301) @ 14310: uvm_test_top.env.s [SCO] DATA MATCHED : addr:3, rdata:231
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 14310: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 3 
+UVM_INFO testbench.sv(161) @ 14310: uvm_test_top.env.a.d [DRV] mode : READ addr : 3  din : 222
+UVM_INFO testbench.sv(257) @ 14830: uvm_test_top.env.a.m [MON] DATA READ addr:3 data:231 
+UVM_INFO testbench.sv(301) @ 14830: uvm_test_top.env.s [SCO] DATA MATCHED : addr:3, rdata:231
+----------------------------------------------------------------
+UVM_INFO testbench.sv(79) @ 14830: uvm_test_top.env.a.seqr@@rdata [SEQ] MODE : READ ADDR : 3 
+UVM_INFO testbench.sv(161) @ 14830: uvm_test_top.env.a.d [DRV] mode : READ addr : 3  din : 69
+UVM_INFO testbench.sv(257) @ 15350: uvm_test_top.env.a.m [MON] DATA READ addr:3 data:231 
+UVM_INFO testbench.sv(301) @ 15350: uvm_test_top.env.s [SCO] DATA MATCHED : addr:3, rdata:231
+----------------------------------------------------------------
+UVM_INFO /xcelium23.09/tools/methodology/UVM/CDNS-1.2/sv/src/base/uvm_objection.svh(1271) @ 15350: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+UVM_INFO /xcelium23.09/tools/methodology/UVM/CDNS-1.2/sv/src/base/uvm_report_server.svh(847) @ 15350: reporter [UVM/REPORT/SERVER] 
+--- UVM Report Summary ---
+
+** Report counts by severity
+UVM_INFO :  183
+UVM_WARNING :    0
+UVM_ERROR :    0
+UVM_FATAL :    0
+** Report counts by id
+[DRV]    45
+[MON]    45
+[RNTST]     1
+[SCO]    45
+[SEQ]    45
+[TEST_DONE]     1
+[UVM/RELNOTES]     1
+
+Simulation complete via $finish(1) at time 15350 NS + 67
